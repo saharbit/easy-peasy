@@ -75,7 +75,7 @@
     "app-root-dir": "^1.0.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.3",
-    "babel-jest": "^25.1.0",
+    "babel-jest": "27.0.0-next.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "codecov": "^3.6.2",
     "eslint": "^6.8.0",
